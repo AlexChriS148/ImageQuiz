@@ -12,6 +12,7 @@
 		47411B1F28F1AC2500AFB1F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47411B1D28F1AC2500AFB1F7 /* Main.storyboard */; };
 		47411B2128F1AC2600AFB1F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47411B2028F1AC2600AFB1F7 /* Assets.xcassets */; };
 		47411B2428F1AC2600AFB1F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47411B2228F1AC2600AFB1F7 /* LaunchScreen.storyboard */; };
+		478302DD29259EA300F39787 /* Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478302DC29259EA300F39787 /* Quiz.swift */; };
 		4795813429196F2700BCBD0C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4795813329196F2700BCBD0C /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		47411B2028F1AC2600AFB1F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		47411B2328F1AC2600AFB1F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47411B2528F1AC2600AFB1F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		478302DC29259EA300F39787 /* Quiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz.swift; sourceTree = "<group>"; };
 		4795813329196F2700BCBD0C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				4795813329196F2700BCBD0C /* ViewController.swift */,
+				478302DC29259EA300F39787 /* Quiz.swift */,
 			);
 			path = Comands;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			files = (
 				4795813429196F2700BCBD0C /* ViewController.swift in Sources */,
 				47411B1828F1AC2500AFB1F7 /* AppDelegate.swift in Sources */,
+				478302DD29259EA300F39787 /* Quiz.swift in Sources */,
 				47411B1A28F1AC2500AFB1F7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
