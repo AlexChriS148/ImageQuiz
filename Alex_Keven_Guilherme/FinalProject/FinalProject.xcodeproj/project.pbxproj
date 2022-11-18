@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		47065F8D2928326E004058BE /* FileQuizmanager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47065F8C2928326E004058BE /* FileQuizmanager.swift */; };
+		47065F8F29283369004058BE /* ViewControllerResultQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47065F8E29283369004058BE /* ViewControllerResultQ.swift */; };
+		47065F9129283406004058BE /* ViewControllerMiniquiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47065F9029283406004058BE /* ViewControllerMiniquiz.swift */; };
 		47411B1828F1AC2500AFB1F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47411B1728F1AC2500AFB1F7 /* AppDelegate.swift */; };
 		47411B1A28F1AC2500AFB1F7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47411B1928F1AC2500AFB1F7 /* SceneDelegate.swift */; };
 		47411B1F28F1AC2500AFB1F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47411B1D28F1AC2500AFB1F7 /* Main.storyboard */; };
@@ -17,6 +20,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		47065F8C2928326E004058BE /* FileQuizmanager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileQuizmanager.swift; sourceTree = "<group>"; };
+		47065F8E29283369004058BE /* ViewControllerResultQ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerResultQ.swift; sourceTree = "<group>"; };
+		47065F9029283406004058BE /* ViewControllerMiniquiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerMiniquiz.swift; sourceTree = "<group>"; };
 		47411B1428F1AC2500AFB1F7 /* FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47411B1728F1AC2500AFB1F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47411B1928F1AC2500AFB1F7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,6 +79,9 @@
 			children = (
 				4795813329196F2700BCBD0C /* ViewController.swift */,
 				478302DC29259EA300F39787 /* Quiz.swift */,
+				47065F8C2928326E004058BE /* FileQuizmanager.swift */,
+				47065F8E29283369004058BE /* ViewControllerResultQ.swift */,
+				47065F9029283406004058BE /* ViewControllerMiniquiz.swift */,
 			);
 			path = Comands;
 			sourceTree = "<group>";
@@ -157,9 +166,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47065F8D2928326E004058BE /* FileQuizmanager.swift in Sources */,
+				47065F8F29283369004058BE /* ViewControllerResultQ.swift in Sources */,
 				4795813429196F2700BCBD0C /* ViewController.swift in Sources */,
 				47411B1828F1AC2500AFB1F7 /* AppDelegate.swift in Sources */,
 				478302DD29259EA300F39787 /* Quiz.swift in Sources */,
+				47065F9129283406004058BE /* ViewControllerMiniquiz.swift in Sources */,
 				47411B1A28F1AC2500AFB1F7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
