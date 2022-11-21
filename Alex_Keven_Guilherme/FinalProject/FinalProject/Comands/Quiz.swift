@@ -76,7 +76,7 @@ class managerQuizMarth {
         Quiz(pergunta: "Qual seria a area do quadrado, se seu lado é 12", opcoes: ["144","14","133","28"], respostaCorrect: 0)]
         
     
-    
+    var images = ["porcentagem","area","expressao","volume","pontenciacao"]
     var contador = -1
     var numberCorrect = 0
     var numberWrong = 0

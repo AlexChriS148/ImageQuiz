@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		391CC8B1292C36D100BCBC59 /* ViewControllerExmplos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 391CC8B0292C36D100BCBC59 /* ViewControllerExmplos.swift */; };
 		47065F8D2928326E004058BE /* FileQuizmanager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47065F8C2928326E004058BE /* FileQuizmanager.swift */; };
 		47065F8F29283369004058BE /* ViewControllerResultQ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47065F8E29283369004058BE /* ViewControllerResultQ.swift */; };
 		47065F9129283406004058BE /* ViewControllerMiniquiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47065F9029283406004058BE /* ViewControllerMiniquiz.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		391CC8B0292C36D100BCBC59 /* ViewControllerExmplos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerExmplos.swift; sourceTree = "<group>"; };
 		47065F8C2928326E004058BE /* FileQuizmanager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileQuizmanager.swift; sourceTree = "<group>"; };
 		47065F8E29283369004058BE /* ViewControllerResultQ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerResultQ.swift; sourceTree = "<group>"; };
 		47065F9029283406004058BE /* ViewControllerMiniquiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerMiniquiz.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				47065F8C2928326E004058BE /* FileQuizmanager.swift */,
 				47065F8E29283369004058BE /* ViewControllerResultQ.swift */,
 				47065F9029283406004058BE /* ViewControllerMiniquiz.swift */,
+				391CC8B0292C36D100BCBC59 /* ViewControllerExmplos.swift */,
 			);
 			path = Comands;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				4795813429196F2700BCBD0C /* ViewController.swift in Sources */,
 				47411B1828F1AC2500AFB1F7 /* AppDelegate.swift in Sources */,
 				478302DD29259EA300F39787 /* Quiz.swift in Sources */,
+				391CC8B1292C36D100BCBC59 /* ViewControllerExmplos.swift in Sources */,
 				47065F9129283406004058BE /* ViewControllerMiniquiz.swift in Sources */,
 				47411B1A28F1AC2500AFB1F7 /* SceneDelegate.swift in Sources */,
 			);

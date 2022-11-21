@@ -22,3 +22,10 @@ class ViewControllerResultQ: UIViewController {
 
 
 }
+
+
+
+
+
+
+
